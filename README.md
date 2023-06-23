@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
 <h1 align="center">Hi 👋, I'm Faysal Ali</h1>
 <h3 align="center">A Skilled Backend Developer</h3>
 <p>Experienced Node.js developer, proficient in Express.js, MySQL, PostgreSQL, and JavaScript.
